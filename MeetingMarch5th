@@ -1,0 +1,19 @@
+Hey guys, so at our meeting today we were talking about maybe making a concerted effort to work on our Unity
+fundamentals (since Mike seems to be the only one with any real experience with the program). We talked about
+the core of a 2D platformer and we feel that this basically consists of movement, animation, and interaction
+between the player-character and the world. To work on these fundamentals and move forward with the project,
+while also getting a better feel for Unity, we proposed that we should all independently follow the video
+tutorials (included below), and meet back again next week to compared our "finished" products. From there we
+can proceed with the more complex parts of the project (including level design, original animation, and unique
+mechanics), and more efficiently delegate tasks based off of what people are comfortable with.
+
+Ideally, we should each be able to show a small, single-screen area where the player-character is jumping around
+and demonstrating collision with the environments (as can be seen at the very start of the ANIMATION video included
+below). Feel free to provide feedback if this seems appropriate, or if we should adjust this goal in some way. Also
+feel free to download different animation packages from each other so we can have different looking "games". This
+could help us figure out what kind of artstyle we want for the final game.
+-Remy
+
+2D GAME BASICS: https://www.youtube.com/watch?v=on9nwbZngyw
+2D MOVEMENT: https://www.youtube.com/watch?v=dwcT-Dch0bA
+2D ANIMATION: https://www.youtube.com/watch?v=hkaysu1Z-N8
