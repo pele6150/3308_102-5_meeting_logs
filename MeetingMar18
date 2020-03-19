@@ -1,0 +1,14 @@
+Steve Jobs Rejected Interns
+We met via Zoom to talk over the state of the project. We are going have at least one meeting tomorrow,
+one hour before the Zoom recitation, to go over last minute items.
+We will show two working modules of our project. One is the leaderboard HTML webpage. The other is a quick
+demo of our game as it is now.
+Actions:
+Pete is continuing work on the HTML page. Matt and Pete will continue to work on the interface between the
+player/score database and the web front-end.
+Remy is continuing with the game level. He is trying to figure out a problem with the ground collision part
+of the game.
+Mike is working on the animation and the artwork for the game.
+Chris is working is also working on art work, and also working on advanced collision physics for the game.
+Connor is working on animation and art work. He is also working with Remy to hammer out the details on the hit-box
+mechanics for the main character and the enemies.
